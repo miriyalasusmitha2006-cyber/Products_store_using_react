@@ -1,0 +1,16 @@
+.navbar{
+    padding:15px 30px;
+}
+
+.navbar-brand{
+    letter-spacing:1px;
+}
+
+.nav-link{
+    font-size:18px;
+    margin-left:15px;
+}
+
+.nav-link:hover{
+    color:gold !important;
+}
